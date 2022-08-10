@@ -1,0 +1,10 @@
+Car 800cc #50
+Car 1200cc #70
+Car 2000cc #90
+Car 3000cc #120
+SUV 5000cc #140
+SUV 4*4 5000cc #140
+Van mini 3000cc #100
+Van 30 seater 5000cc #110
+Van 55 seater 10000cc #200
+Construction vehicle 5000cc #200
